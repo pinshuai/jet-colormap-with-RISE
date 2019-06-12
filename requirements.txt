@@ -1,3 +1,5 @@
 rise==5.5.0
 numpy
 matplotlib
+seaborn
+scipy
