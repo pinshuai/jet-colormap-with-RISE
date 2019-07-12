@@ -3,6 +3,4 @@
 
 # Why using Jet colormap is a bad idea?
 
-A collection of useful notebooks.
-
 - [colormap.ipynb](./colormap.ipynb) is about not using jet/rainbow colormap in visualization. It can be lauched in presentation mode using [Binder](https://gke.mybinder.org/) and [RISE](https://github.com/damianavila/RISE). 
